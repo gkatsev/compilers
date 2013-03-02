@@ -1,0 +1,7 @@
+let
+	var foo := "Hello"
+	var bar : int := 10
+in
+	print(foo);
+	100 + bar
+end

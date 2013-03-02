@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ml-lex "tiger.lex"
+sml test.sml
+

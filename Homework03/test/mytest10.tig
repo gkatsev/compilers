@@ -1,0 +1,13 @@
+for counter := 0 + 1 to 10 - 3
+do
+	if counter = 1
+	then "Monday. Work."
+	else if counter = 2
+			 then "Tuesday. Work."
+			 else if counter = 3
+						then "Wednesday. Work."
+						else if counter = 4
+								 then "Thursday. Work."
+		 						 else if counter = 5
+											then "Friday. Work."
+											else "Weekend! Go drink."

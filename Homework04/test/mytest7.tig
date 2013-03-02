@@ -1,0 +1,5 @@
+if 100 <= 100 & 50 >= 50
+then "Word."
+else if 1
+		then "to"
+		else "yo mamma."

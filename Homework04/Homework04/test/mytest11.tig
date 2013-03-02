@@ -1,0 +1,37 @@
+let
+	type foo = int
+	type bar = foo
+	type baz = bar
+	var foo := "Hello"
+	var bar : baz := 10
+
+	function IGotta(feeling : string) : int = 
+	  (print(feeling); 10)
+	
+	function proc1(str : string) = 
+	  print("ONE MILLION")
+
+	function MyHumps(lumps : int) : string =
+	  "lovely lady parts. yeah, something like that."
+
+	function proc2() = 
+	  while 1 do
+	    print("Hey Hey you you") 
+
+	function proc3() =
+	  if 1
+	  then print("1")
+
+	function proc4() : string =
+	  if 0
+	  then "hello"
+	  else "world"
+in
+	print(foo);
+	100 + bar;
+	IGotta("that tonight's gonna be a good night.");
+	MyHumps(bar);
+	proc2();
+	proc3();
+	proc4()
+end

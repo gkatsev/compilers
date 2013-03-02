@@ -1,0 +1,9 @@
+/* an array /* test /* another test */ */ type and an array variable */
+let
+    var test = "\^JHi\n\"  Gary,\t\065\\\
+                \ What's up?";
+	type arrtype = array of int
+	var arr1:arrtype := arrtype [10] of 0
+in
+	arr1
+end

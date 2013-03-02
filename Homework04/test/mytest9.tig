@@ -1,0 +1,2 @@
+while 1 <> 0
+do print("Happy Days!")

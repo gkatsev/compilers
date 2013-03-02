@@ -1,0 +1,7 @@
+let
+	var foo : string :=	"Yo mamma"
+	var bar := "She's so phat."
+in
+	foo;
+  break
+end
